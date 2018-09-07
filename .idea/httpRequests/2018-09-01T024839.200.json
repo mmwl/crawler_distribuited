@@ -1,0 +1,26 @@
+{
+  "took": 6,
+  "timed_out": false,
+  "_shards": {
+    "total": 5,
+    "successful": 5,
+    "failed": 0
+  },
+  "hits": {
+    "total": 1,
+    "max_score": 0.15342641,
+    "hits": [
+      {
+        "_index": "imooc",
+        "_type": "course",
+        "_id": "2",
+        "_score": 0.15342641,
+        "_source": {
+          "name": "golang",
+          "instructor": "ccmouse",
+          "url": "http://www.baidu.com"
+        }
+      }
+    ]
+  }
+}

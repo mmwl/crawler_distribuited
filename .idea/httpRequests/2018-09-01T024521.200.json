@@ -1,0 +1,12 @@
+{
+  "_index": "imooc",
+  "_type": "course",
+  "_id": "2",
+  "_version": 2,
+  "_shards": {
+    "total": 2,
+    "successful": 1,
+    "failed": 0
+  },
+  "created": false
+}
